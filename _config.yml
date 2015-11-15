@@ -1,0 +1,23 @@
+name: The Staccato Slur
+favicon: null
+layout_spectrum: 0.7970027178525925
+typography_spectrum: 0.8076616516336799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7823132162448019
+  lightness: 0.589150523301214
+  saturation: 0.13120558043010533
+  rhythmicContrast: 0.0038426020182669163
+purpose: []
